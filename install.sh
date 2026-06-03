@@ -9,7 +9,7 @@ echo "=========================================================="
 echo "=== 1/4: Instalando dependências via XBPS ==="
 
 DEPENDENCIAS=(
-    "base-devel" "gd-devel" "pkg-config"
+    "base-devel" "imlib2-devel" "gd-devel" "pkg-config"
     "libX11-devel" "libXinerama-devel" "libXft-devel" "freetype-devel"
     "hsetroot" "xsettingsd" "pulsemixer" "light" "rofi" "dunst"
     "alacritty" "Thunar" "geany" "firefox" "viewnior"

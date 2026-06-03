@@ -12,7 +12,7 @@ DEPENDENCIAS=(
     "base-devel" "gd-devel" "pkg-config"
     "libX11-devel" "libXinerama-devel" "libXft-devel" "freetype-devel"
     "hsetroot" "xsettingsd" "pulsemixer" "light" "rofi" "dunst"
-    "alacritty" "thunar" "geany" "firefox" "viewnior"
+    "alacritty" "Thunar" "geany" "firefox" "viewnior"
     "betterlockscreen" "ksuperkey" "mpd" "mpc" "ffmpeg"
     "maim" "xclip" "xcolor" "xfce4-power-manager"
     "xorg-xsetroot" "yad" "wmname"

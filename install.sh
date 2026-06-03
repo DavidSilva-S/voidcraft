@@ -55,7 +55,8 @@ echo "=========================================================="
 # ==========================================================
 echo "=== 4/4: Compilando e Instalando o Archcraft ST ==="
 # Entra na pasta do st que veio junto pelo submódulo
-cd /tmp/archcraft-dwm-repo/archcraft-st/archcraft-st/source
+cp $HOME/voidcraft/Makefile /tmp/archcraft-dwm-repo/archcraft-st
+cd /tmp/archcraft-dwm-repo/archcraft-st
 
 # Compilação do Terminal
 make X11INC=/usr/include/X11 X11LIB=/usr/lib FREETYPEINC=/usr/include/freetype2
